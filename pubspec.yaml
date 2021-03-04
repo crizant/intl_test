@@ -1,0 +1,7 @@
+name: intl_test
+description: My app
+version: 0.0.1
+author: crizant
+
+dependencies:
+  intl: ^0.16.1
