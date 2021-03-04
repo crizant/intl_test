@@ -1,6 +1,6 @@
 # intl_test
 
-This is a demo of the [issue](https://github.com/dart-lang/intl/issues/337).
+This is a demo of the [NumberFormat.compact() rounding issue #337](https://github.com/dart-lang/intl/issues/337).
 
 ## Getting started
 
